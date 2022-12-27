@@ -1,0 +1,27 @@
+_repo: Dorothea-Beale-Principal-of-the-Cheltenham-Ladies-College-1858-1906_69599
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shillito, Elizabeth Helen
+    gutenberg_agent_id: '55340'
+    url: http://www.gutenberg.org/2009/agents/55340
+description: ''
+gutenberg_issued: '2022-12-21'
+identifiers:
+  gutenberg: '69599'
+language: en
+pgterms:marc904: https://archive.org/details/dorotheabealepri00shiliala
+pgterms:marc905: 20181029050413shillito
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: MWS and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: 'United States: Society for Promoting Christian Knowledge,1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Dorothea Beale: Principal of the Cheltenham Ladies'' College, 1858-1906'
+url: http://www.gutenberg.org/ebooks/69599
