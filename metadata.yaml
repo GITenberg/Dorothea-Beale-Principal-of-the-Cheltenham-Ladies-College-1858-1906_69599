@@ -1,11 +1,16 @@
 _repo: Dorothea-Beale-Principal-of-the-Cheltenham-Ladies-College-1858-1906_69599
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69599-h/images/cover.jpg
 creator:
   author:
     agent_name: Shillito, Elizabeth Helen
     gutenberg_agent_id: '55340'
     url: http://www.gutenberg.org/2009/agents/55340
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69599#Dorothea-Beale-Principal-of-the-Cheltenham-Ladies-College-1858-1906
 gutenberg_issued: '2022-12-21'
 identifiers:
   gutenberg: '69599'
